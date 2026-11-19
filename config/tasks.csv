@@ -1,0 +1,4 @@
+task_id,period_ms,execution_ms,deadline_ms,priority
+T1,20,4,20,3
+T2,50,10,40,2
+T3,100,18,80,1
